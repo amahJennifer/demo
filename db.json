@@ -1,5 +1,4 @@
-{
-  
+{ 
   "transactionData": [
     { 
  "subcriptionPlan":"Gold",
@@ -24,7 +23,9 @@
 "purchaseDate" :"2020-04-06",
 "expiryDate":"2021-05-01"
 
-    },
+    }
   ],
+  
+  "user":{"username":"janedoe","wallet":"12000"}
   
 }
